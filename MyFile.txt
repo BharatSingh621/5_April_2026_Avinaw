@@ -1,4 +1,0 @@
-Hello this is sample File
-
-
-This is our updated code.
